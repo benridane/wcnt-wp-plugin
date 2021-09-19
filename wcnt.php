@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       wcnt
- * Description:       Example block written with ESNext standard and JSX support – build step required.
+ * Description:       Word Count Block Plugin
  * Requires at least: 5.8
  * Requires PHP:      7.0
  * Version:           0.1.0
